@@ -1,0 +1,25 @@
+_repo: The-Eulogies-of-Howard--13-A-Vision_10010
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hayley, William
+    birthdate: 1745
+    deathdate: 1820
+    gutenberg_agent_id: '2939'
+    url: http://www.gutenberg.org/2009/agents/2939
+    wikipedia: http://en.wikipedia.org/wiki/William_Hayley
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Howard, John, 1726-1790'
+- GITenberg
+title: 'The Eulogies of Howard: A Vision'
+url: http://www.gutenberg.org/ebooks/10010
